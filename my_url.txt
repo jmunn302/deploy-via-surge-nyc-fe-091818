@@ -1,2 +1,2 @@
 # You will enter your deployed Surge URL here. Replace this line with the URL
-http://smart-cent.surge.sh
+nimble-back.surge.sh
